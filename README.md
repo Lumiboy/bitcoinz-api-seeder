@@ -51,7 +51,8 @@ Example Response:
 {
   "bwsServers": [
     "https://bws.bitcoinz.ph",
-    "http://212.48.90.191:3232"
+    "https://bws.btcz.rocks",
+    "http://212.48.90.191:3232",
   ]
 }
 ```
