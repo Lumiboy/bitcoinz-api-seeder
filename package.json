@@ -1,7 +1,7 @@
 {
-  "name": "bitcoinz-api-seeder",
+  "name": "zelcash-api-seeder",
   "version": "1.0.0",
-  "description": "Seeder App for providing information related to BitcoinZ API and Wallet Servers",
+  "description": "Seeder App for providing information related to Zelcash API and Wallet Servers",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitcoinz-wallets/bitcoinz-api-seeder.git"
+    "url": "git+https://github.com/Lumiboy/zelcash-api-seeder.git"
   },
-  "author": "BitcoinZ Community",
+  "author": "Zelcash Foundation",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitcoinz-wallets/bitcoinz-api-seeder/issues"
+    "url": "https://github.com/Lumiboy/zelcash-api-seeder/issues"
   },
-  "homepage": "https://github.com/bitcoinz-wallets/bitcoinz-api-seeder#readme",
+  "homepage": "https://github.com/Lumiboy/zelcash-api-seeder#readme",
   "dependencies": {
     "config": "^1.29.0",
     "cors": "^2.8.4",
